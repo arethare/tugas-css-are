@@ -4,6 +4,10 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+body{
+  background-image: url("img/pattern.jpg");
+}
+
 header{
   background-color: rgb(14, 69, 117);
   display: flex;
@@ -33,7 +37,6 @@ a li {
 }
 
 section {
-  background-image: url(/img/pattern.jpg);
   padding-top: 120px;
   padding-bottom: 30px;
   display: flex;
@@ -120,7 +123,7 @@ a li {
 }
 
 section {
-  background-image: url(../img/pattern.jpg);
+  /* background-image: url(../img/pattern.jpg); */
   padding-top: 120px;
   padding-bottom: 30px;
   display: flex;
