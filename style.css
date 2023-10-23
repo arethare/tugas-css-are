@@ -33,7 +33,7 @@ a li {
 }
 
 section {
-  background-image: url(../img/pattern.jpg);
+  background-image: url("img/pattern.jpg");
   padding-top: 120px;
   padding-bottom: 30px;
   display: flex;
